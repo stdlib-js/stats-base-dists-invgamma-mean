@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-12)
+## Unreleased (2025-02-03)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1db3cc5`](https://github.com/stdlib-js/stdlib/commit/1db3cc5291f4d08855501db089953299de98b8a4) - **bench:** refactor random number generation in `stats/base/dists/invgamma` [(#4974)](https://github.com/stdlib-js/stdlib/pull/4974) _(by Karan Anand)_
 -   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`dd6359a`](https://github.com/stdlib-js/stdlib/commit/dd6359af1005e76df487cc727e82eb0464a00352) - **feat:** add C implementation for `stats/base/dists/invgamma/mean`   [(#4116)](https://github.com/stdlib-js/stdlib/pull/4116) _(by Vivek Maurya)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
 
